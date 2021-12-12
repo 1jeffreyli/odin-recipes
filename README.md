@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project from The Odin Project (TOP) foundations curriculum. It will showcase HTML elements and attributes. For example, I will demonstrate basic HTML boilerplate code, lists, links, and images.
