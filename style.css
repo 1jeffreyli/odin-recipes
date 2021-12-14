@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+body {
+    font-size: 24px;
+}
+
 #nav {
     font-size: 36px;
     background-color: lightblue;
@@ -16,4 +20,21 @@
 
 a {
     text-decoration: none;
+}
+
+blockquote {
+    font-style: italic;
+    font-weight: 700;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    background-color: skyblue;
+}
+
+ol li {
+    text-align: left;
+    color: crimson;
+    background-color: lightgray;
 }
